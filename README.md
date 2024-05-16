@@ -1,5 +1,5 @@
 # Chat-app
 
-### Demo
+### Demo:
 
    https://abdelhamid-elsayedd.github.io/Chat-app/
